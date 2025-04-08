@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me @lamineppc
-- 😄 Pronouns: Lamine
-- ⚡ Fun fact: Easy
+- 😄 Pronouns: He
+- ⚡ Fun fact: No Stress 😎😁
 
 <!---
 Lamineppc/Lamineppc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
